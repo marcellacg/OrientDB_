@@ -1,3 +1,3 @@
 # OrientDB_
 
-CRUD com o banco não-relacional OrientDB
+CRUD de pequena aplicação com o banco não-relacional OrientDB
